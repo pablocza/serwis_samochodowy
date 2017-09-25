@@ -1,0 +1,16 @@
+﻿body {
+    color: red;
+    text-align:center;
+}
+#GridView1{
+    margin-left:500px;
+}
+html { 
+  background: url("http://image.shutterstock.com/z/stock-vector-car-repair-services-workshop-mechanic-stick-figure-pictogram-icons-244225801.jpg") no-repeat center center fixed; 
+  background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  background-size: cover;
+  width: 100%;
+    height: 100%;
+}
